@@ -1,0 +1,26 @@
+From da23d0e76faf14152e7aa74f9b05557487999dc4 Mon Sep 17 00:00:00 2001
+From: Lapa <lapabig@gmail.com>
+Date: Thu, 22 Jun 2023 20:35:49 +0600
+Subject: [PATCH] Changed another 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index a3a1df2..24cb7f8 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ Line 1, changed in git_1
+ Line 2, changed in git_1
+ Line 3
+ Line 4
+ Line 5
+ Line 6
+ Line 7
+ Line 8
+ Line 9
+ Line 10 
+2.40.1.windows.1
+
