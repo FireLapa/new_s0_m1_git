@@ -1,7 +1,7 @@
 Line 1, changed in git_1
 Line 2, changed in git_1
-Line 3
-Line 4
+Line 3, changed in git_1
+Line 4, changed in git_1
 Line 5
 Line 6
 Line 7
